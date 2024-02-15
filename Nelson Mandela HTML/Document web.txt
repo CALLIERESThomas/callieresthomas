@@ -1,0 +1,4 @@
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout : Devellopement CSS display grid 
+https://www.w3schools.com/icons/tryit.asp?icon=fas_fa-store-alt&unicon=f54f : Devellopement HTML fas fa-store-alt éké emoji maison 
+https://www.orientation.com/diplomes/bts-services-informatiques-aux-organisations-option-b-solutions-logicielles-et-applications-metiers: Site web option SLAM
+https://www.orientation.com/diplomes/bts-services-informatiques-aux-organisations-option-a-solutions-dinfrastructure-systemes-et-reseaux: Site web option SISR

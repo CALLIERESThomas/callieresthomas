@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital@1&family=Viaoda+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Langar&display=swap');
+
+*{
+    font-family: 'IBM Plex Serif', serif;
+
+}
+
+html{
+    scroll-behavior: smooth;
+    
+}
+
+
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+    
+    
+}
+
+/* Tete de page */
+
+header.header{
+    display: flex;
+    align-items: center;
+
+}
+
+header.header img{
+    width: 150px;
+}
+
+section.top-page{
+    background: url("../img\ Sisr/bg.jpg");
+    background-size: cover;
+    height: 660px;
+    
+}
+
+/* Page de bienvenue (landing page) */
+
+.landing-page{
+    position: relative;
+    padding: 50px 50px;
+}
+
+
+
+/*  Menu de navigation */
+
+nav.nav{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 400px;
+    margin-left: 30px;
+}
+
+nav.nav li a{
+    color: white;
+    text-decoration: none;
+}
+/* pied de page */
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+
+}
+
+
+p {
+    font-size: larger;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1{
+   text-decoration: none;
+   margin : 25px 25px;
+    display:flex;
+}
+
+h2{
+    margin-left: 15rem;
+    margin-right: 15rem;
+    font-size: 45px;
+}
+li{
+    margin-left: 15rem;
+    font-size: larger;
+    margin-right: 15rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+
+
+.Camember{ 
+  margin-left: 500px;
+}
